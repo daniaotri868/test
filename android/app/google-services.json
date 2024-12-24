@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "260529507386",
+    "project_id": "restaurant-5f637",
+    "storage_bucket": "restaurant-5f637.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260529507386:android:29c0484857037d2ff6b903",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260529507386-7nr8k662s2pqkp48q21502230j8l96nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_customer",
+            "certificate_hash": "df0ab52e6459f291f1e3f179b1e1aa13990bf955"
+          }
+        },
+        {
+          "client_id": "260529507386-dg3rjg2dlrjorbsmhltjvenqj9fmo5j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_customer",
+            "certificate_hash": "4dadd87409675e2b540b238225c7c68a4bcf9c1e"
+          }
+        },
+        {
+          "client_id": "260529507386-idnvbo4ukir2rrlu454gt0f91l4kdn0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurant_customer",
+            "certificate_hash": "b6330ef48066b9e26a8822cac78af0b535c8708f"
+          }
+        },
+        {
+          "client_id": "260529507386-vai2dj32k616p6salgh2fnl2lm8041lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnGsOt8p96D68OcwFnBLhcvJAD9cPVFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260529507386-vai2dj32k616p6salgh2fnl2lm8041lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260529507386-v6qkv76mkvb6poqdbttikn86fkgq67mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.restaurantCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
